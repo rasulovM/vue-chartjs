@@ -16,8 +16,7 @@
   "env": {
     "test": {
       "plugins": [
-        "@babel/plugin-transform-modules-commonjs",
-        "transform-object-rest-spread"
+        "@babel/plugin-transform-modules-commonjs"
       ]
     }
   }
